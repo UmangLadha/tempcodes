@@ -1,0 +1,32 @@
+.content {
+  background: url(https://www.scdn.co/i/free/lets-play.svg) left -10px bottom -160px /
+      100% 1114px no-repeat,
+    linear-gradient(-45deg, rgb(108, 14, 224) 16%, rgb(240, 55, 166))
+      rgb(108, 14, 224);
+  padding: 8rem 0;
+  text-align: center;
+}
+
+.content h1 {
+  font-size: 5rem;
+  color: white;
+  letter-spacing: -1px;
+  display: flex;
+  justify-content: center;
+  font-weight: 700;
+  margin: 0 auto 40px;
+}
+
+.content a {
+  background-color: white;
+  color: black;
+  font-size: 15px;
+  padding: 15px 35px;
+  border-radius: 30px;
+  font-weight: 500;
+}
+
+.content a:hover {
+  box-shadow: rgba(0, 0, 0, 0.25) 0 8px 15px;
+  transform: translateY(-2px);
+}

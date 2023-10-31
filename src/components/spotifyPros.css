@@ -1,0 +1,35 @@
+.prosContainer{
+	width: 70%;
+	margin: 5rem auto;
+	text-align: center;
+}
+
+.prosContainer h1{
+	font-size: 40px;
+	font-weight: 700;
+	margin-bottom: 4rem;
+}
+
+.proList{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-content: center;
+	gap: 20px;
+}
+
+.proCard{
+	width: 22%;
+}
+
+.proCard img{
+	width: 145px;
+	padding-bottom: 20px ;
+}
+
+.cardText h3{
+	line-height: 16px;
+}
+.cardText p{
+	font-weight: 500;
+}
